@@ -1,0 +1,13 @@
+{
+
+    "name": "#skypowebsite",
+    "short_name": "web",
+    "description":"Bienvenido a mi sitio",
+    "background_color": "#2b2b2b",
+    "theme_color": "grey",
+    "orientation": "portrait",
+    "display": "standalone",
+    "start_url": "./?utm_source=web_app_manifest",
+    "scope": "./",
+    "lang": "es-MX"
+}
